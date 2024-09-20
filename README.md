@@ -1,16 +1,24 @@
-## Hi there 👋
+## Contemple o exuberante perfil de JubivaldoThree🐥
 
-<!--
-**JubivaldoThree/JubivaldoThree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Eu sou Jubivaldo III**
+ 
+ **//---------//---------//---------//---------//---------//---------//---------//---------//---------//---------//---------//**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ -_Estou estudando na_ [Alura](https://ww.alura.com.br)
+ 
+ -_Estou me desenvolvendo na linguagem JavaScript_
+ 
+ -_Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos_
+
+ **//---------//---------//---------//---------//---------//---------//---------//---------//---------//---------//---------//**
+
+ **SE QUISER ENTRAR EM CONTATO**
+
+ //-- MINHAS REDES SOCIAIS --//
+
+ **@atp_marco14**
+
+![](https://media1.tenor.com/m/aI3OYTF7rVoAAAAC/one-piece-sanji.gif)
+
+ 
